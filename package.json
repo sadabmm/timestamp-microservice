@@ -1,0 +1,15 @@
+{
+  "name": "smm-timestamp",
+  "version": "0.0.1",
+  "description": "An API to return time-date in unix and natural format.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "SMM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "moment": "^2.20.1"
+  }
+}
